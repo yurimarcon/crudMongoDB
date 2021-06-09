@@ -2,8 +2,8 @@ const mongoose = require('mongoose');
 
 mongoose.Promisse = global.Promisse
 
-let user = 'yuri'
-let psw = 'BZK4mBm1gpSJxvUT'
+let user = ''
+let psw = 'BZK4mBm1gpSJxvUTxyz'
 let cluster = 'labsystem'
 
 let url = 'mongodb+srv://'+ user +':'+ psw +'@cluster0.lplyi.mongodb.net/' + cluster
